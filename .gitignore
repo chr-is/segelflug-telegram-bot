@@ -1,0 +1,7 @@
+.vagrant/
+vendor/
+config/development.config.php.dist
+data/cache/*
+data/images/*
+!data/cache/.gitkeep
+!data/images/.gitkeep
